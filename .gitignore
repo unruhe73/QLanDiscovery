@@ -1,0 +1,8 @@
+QLanDiscovery.pro.user*
+*.o
+*.so
+moc_*.cpp
+QLanDiscovery
+Makefile
+.qmake.stash
+.git/
