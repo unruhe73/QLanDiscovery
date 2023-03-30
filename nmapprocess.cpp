@@ -1,6 +1,5 @@
 /***************************************************************************
- *   Copyright (C) 2012-2013 by Giovanni Venturi                           *
- *   giovanni@ksniffer.org                                                 *
+ *   Copyright (C) 2012-2023 by Giovanni Venturi                           *
  *                                                                         *
  *   This program is free software; you can redistribute it and/or modify  *
  *   it under the terms of the GNU General Public License as published by  *
